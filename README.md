@@ -1,2 +1,2 @@
-# kevinDev
+# Minesweeper
 Love coding
